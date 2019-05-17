@@ -1,0 +1,17 @@
+{
+  "name": "MariaDatabase",
+  "version": "1.0.0",
+  "description": "MariaDB connector",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "MariaDB"
+  ],
+  "author": "Khue Huynh",
+  "license": "ISC",
+  "dependencies": {
+    "mariadb": "^2.0.5"
+  }
+}
